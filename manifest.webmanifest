@@ -1,0 +1,12 @@
+{
+  "name": "Livro de Contas – Oficina",
+  "short_name": "Livro Oficina",
+  "description": "Registo local de intervenções, faturas e pagamentos da oficina.",
+  "lang": "pt-PT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e8e5dc",
+  "theme_color": "#30363a",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
