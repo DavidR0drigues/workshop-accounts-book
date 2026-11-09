@@ -1,6 +1,6 @@
 {
-  "name": "Livro de Contas – Oficina",
-  "short_name": "Livro Oficina",
+  "name": "Oficina Joaquim do Amaral Rodrigues",
+  "short_name": "Oficina J.A.R.",
   "description": "Registo local de intervenções, faturas e pagamentos da oficina.",
   "lang": "pt-PT",
   "start_url": "./",

@@ -1,4 +1,4 @@
-# Livro de Contas – Oficina
+# Oficina Joaquim do Amaral Rodrigues
 
 Aplicação PWA sem dependências externas para registar intervenções, faturas, pagamentos, pesquisar históricos e manter cópias de segurança. Os dados ficam no IndexedDB do navegador deste computador.
 
@@ -12,7 +12,7 @@ Publique estes ficheiros na raiz de um repositório GitHub e, em **Settings → 
 
 ## Instalar no PC da oficina
 
-No Chrome ou Edge, abra a aplicação publicada e use o ícone **Instalar** na barra de endereço (ou o menu do navegador → **Instalar Livro Oficina**). A primeira abertura requer internet; depois a app pode abrir offline.
+No Chrome ou Edge, abra a aplicação publicada e use o ícone **Instalar** na barra de endereço (ou o menu do navegador → **Instalar Oficina J.A.R.**). A primeira abertura requer internet; depois a app pode abrir offline.
 
 ## Dados e cópias de segurança
 
